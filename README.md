@@ -1,6 +1,6 @@
 # Sicilylines_Mission3
 
-Ici on retrouve deux cas d'itération:
+Ici on retrouve deux cas d'itérations:
 
 Le premier itération possède le Diagramme de navigation et l'Usecase du projet Sicilylines
 
